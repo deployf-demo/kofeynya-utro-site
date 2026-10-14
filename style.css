@@ -1,0 +1,7 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:#2b2118;background:#fbf7f2}
+header{display:flex;justify-content:space-between;align-items:center;padding:20px 48px}.logo{font-weight:700;font-size:24px}
+nav a{margin-left:24px;color:#2b2118;text-decoration:none}
+.hero{padding:96px 48px;background:linear-gradient(135deg,#6b4226,#a0673d);color:#fff}.hero h1{font-size:48px;margin:0 0 16px;max-width:720px}.hero p{font-size:20px;opacity:.9}
+.btn{display:inline-block;margin-top:24px;padding:14px 28px;background:#fff;color:#6b4226;border-radius:999px;text-decoration:none;font-weight:600}
+.menu{padding:64px 48px}.cards{display:flex;gap:24px;flex-wrap:wrap}.card{background:#fff;border-radius:16px;padding:24px 32px;box-shadow:0 4px 16px rgba(0,0,0,.06);min-width:200px}
+footer{padding:32px 48px;color:#7a6a5c}
